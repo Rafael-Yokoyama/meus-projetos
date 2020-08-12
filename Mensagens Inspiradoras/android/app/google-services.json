@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351576712502",
+    "firebase_url": "https://mensagens-edificantes-ae828.firebaseio.com",
+    "project_id": "mensagens-edificantes-ae828",
+    "storage_bucket": "mensagens-edificantes-ae828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351576712502:android:93e68810288cf06067bf97",
+        "android_client_info": {
+          "package_name": "com.example.escrituras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351576712502-72vsbh6hv31l4lqlpis7kr4plulegjsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHX5H1m8DOcReqqfmU4630ZsmhFtVpSpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351576712502-72vsbh6hv31l4lqlpis7kr4plulegjsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
